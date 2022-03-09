@@ -16,8 +16,8 @@
 4、云词
 
 ## 项目部分截图
-![image](oa-data/projectImg/1646805780758.jpg)
-![image](oa-data/projectImg/1646805831844.jpg)
-![image](oa-data/projectImg/1646805861334.jpg)
-![image](oa-data/projectImg/1646805938677.jpg)
-![image](oa-data/projectImg/WechatIMG35.jpg)
+![image](projectImg/1646805780758.jpg)
+![image](projectImg/1646805831844.jpg)
+![image](projectImg/1646805861334.jpg)
+![image](projectImg/1646805938677.jpg)
+![image](projectImg/WechatIMG35.jpg)
