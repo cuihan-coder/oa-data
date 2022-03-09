@@ -1,0 +1,23 @@
+{
+  "name": "qswy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "dingtalk-jsapi": "^2.13.71",
+    "echarts-wordcloud": "^2.0.0",
+    "sass-resources-loader": "^2.1.1"
+  },
+  "dependencies": {
+    "echarts": "^5.1.2",
+    "gmy-img-cropper": "^1.3.0",
+    "node-sass": "^5.0.0",
+    "sass-loader": "^10.1.0",
+    "uview-ui": "^2.0.15"
+  }
+}

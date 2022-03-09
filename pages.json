@@ -1,0 +1,212 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/home/index",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "首页"
+			}
+		},
+		{
+			"path": "pages/business/index",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "经营发展管理"
+			}
+		},
+		{
+			"path": "pages/yqzk/index",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "逾期账款"
+			}
+		},
+		{
+			"path": "pages/fine/ygc",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "精细化管理 - 员工餐"
+			}
+		},
+		{
+			"path": "pages/fine/ysdcl",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "精细化管理 - 营收预算达成率"
+			}
+		},
+		{
+			"path": "pages/fine/fc",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "精细化管理 - 分差"
+			}
+		},
+		{
+			"path": "pages/fine/spcb",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "精细化管理 - 定额食品成本"
+			}
+		},
+		{
+			"path": "pages/fine/zzts",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "精细化管理 - 存货周转天数"
+			}
+		},
+		{
+			"path": "pages/fine/bzcb",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "精细化管理 - 包装成本"
+			}
+		},
+		{
+			"path": "pages/fine/bc",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "精细化管理 - 报损"
+			}
+		},
+		{
+			"path": "pages/fine/dwgs",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "精细化管理 - 单位工时销售"
+			}
+		},
+		{
+			"path": "pages/fine/rscb",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "精细化管理 - 人事成本"
+			}
+		},
+		{
+			"path": "pages/fine/lrysdc",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "精细化管理 - 利润预算达成"
+			}
+		},
+		{
+			"path": "pages/fine/mendian",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "门店-精细化管理"
+			}
+		},
+		{
+			"path": "pages/business/kbf",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "开办费"
+			}
+		},
+		{
+			"path": "pages/wgsj/index",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "违规事件"
+			}
+		},
+
+
+		{
+			"path": "pages/fine/index",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "精细化管理"
+			}
+		},
+		{
+			"path": "pages/zjyc/index",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "资金缴存异常"
+			}
+		},
+		{
+			"path": "pages/business/zpt_index",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "经营发展经营 - 自平台"
+			}
+		},
+		{
+			"path": "pages/business/zpt_index_wm",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "自平台 - 外卖"
+			}
+		},
+		{
+			"path": "pages/business/zpt_index_zq",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "自平台 - 自取"
+			}
+		},
+		{
+			"path": "pages/business/dkh_index",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "经营发展经营 - 大客户"
+			}
+		},
+		{
+			"path": "pages/business/dkh_index_tc",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "经营发展经营 - 大客户TC"
+			}
+		},
+		{
+			"path": "pages/business/dkh_index_ac",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "经营发展经营 - 大客户AC"
+			}
+		},
+		{
+			"path": "pages/business/xddcl",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "经营发展经营 - 新店达成率"
+			}
+		},
+		{
+			"path": "pages/business/rf",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "经营发展经营 - 柔服"
+			}
+		},
+		{
+			"path": "pages/business/tzcb",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "新店投资成本"
+			}
+		},
+		{
+			"path": "pages/business/mendian",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "门店"
+			}
+		}
+
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"easycom": {
+		"^u-(.*)": "uview-ui/components/u-$1/u-$1.vue"
+	}
+}
